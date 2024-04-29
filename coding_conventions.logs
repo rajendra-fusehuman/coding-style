@@ -1,0 +1,14 @@
+INFO:root:File doesn't exist. Creating a new file: student_data.json.
+INFO:root:Success! Added data in the new file.
+INFO:root:File opened successfully
+INFO:root:Success! Added new student data to the file.
+INFO:root:File opened successfully
+INFO:root:Success! Added new student data to the file.
+INFO:root:Success! File opened successfully.
+INFO:root:Success! File opened successfully.
+INFO:root:Success! File opened successfully.
+INFO:root:Success! Updated data successfully.
+INFO:root:Success! File opened successfully.
+INFO:root:Success! Updated data successfully.
+INFO:root:Success! File opened successfully.
+INFO:root:Success! File opened successfully.
